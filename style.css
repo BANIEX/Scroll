@@ -1,0 +1,64 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.navbar_div{
+
+    background-color: #8DBBD9;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+}
+.title{
+    /* padding: 10px; */
+    /* margin-left: 20px; */
+    width: 35%;
+
+}
+.menu{
+    /* width: 60%; */
+    
+
+}
+.menu ul{
+    display: flex;
+    list-style-type: none;
+    flex-direction: row;
+    /* padding: 10px; */
+    /* padding-top: 20px; */
+}
+.menu ul li{
+    /* padding: 10px; */
+    overflow-wrap: normal;
+}
+.bg_div{
+    width: auto;
+    background-image: url("./img/copaamericamessi.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+    background-attachment: fixed;
+    
+    min-height: 1000px;
+    
+
+}
+.balon_dor{
+    height: 800px;
+    color: bisque;
+    background-color: aquamarine;
+
+
+}
+.trophy{
+
+}
+.goal{
+
+}
+.free-kick{
+
+}
+.penalty{
+
+}
